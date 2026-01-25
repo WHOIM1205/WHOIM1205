@@ -42,66 +42,38 @@
 
 <!-- ===================== OSS FOCUS ===================== -->
 
-## 🧸 Open Source Focus
+## 📊 Open Source Dashboard
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=80&animation=fadeIn" />
 </p>
 
----
-
-### 🔧 Active Contributor
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:16a34a&height=4" />
+<!-- ===== TOP ROW ===== -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WHOIM1205&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=WHOIM1205&theme=tokyonight&hide_border=true" />
 </p>
-
-I actively contribute to open source by submitting **PRs for bug fixes and improvements**,  
-raising **real-world issues**, and pushing changes that improve  
-**reliability, correctness, and long-term maintainability**.
-
-<br/>
 
 ---
 
-### 🐞 Bug Hunter
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,100:f97316&height=4" />
+<!-- ===== ACTIVITY GRAPH ===== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHOIM1205&theme=tokyo-night&hide_border=true" />
 </p>
-
-I enjoy finding bugs that surface only in **real usage**,  
-digging deep into **root causes**, and fixing the **actual problem**  
-instead of relying on temporary workarounds.
-
-<br/>
 
 ---
 
-### 🔍 Code Reader
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:6366f1&height=4" />
+<!-- ===== LANGUAGE DONUTS ===== -->
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WHOIM1205&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
-
-I learn by reading real infrastructure codebases —  
-**Kubernetes, Prometheus, and similar systems** —  
-to understand controllers, caches, concurrency, and failure modes.
-
-<br/>
 
 ---
 
-<!-- ===== OWNERSHIP ===== -->
-### 🤝 Whatever the Project Needs
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,100:eab308&height=3&section=header" />
+<!-- ===== CONTRIBUTION FLOW ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WHOIM1205/WHOIM1205/output/github-contribution-grid-snake.svg" />
 </p>
-
-Open source isn’t about fixed roles.  
-Whether it’s **code, issues, docs, reviews, or investigations**,  
-I step in wherever help is needed and take ownership.
 
 ---
 
