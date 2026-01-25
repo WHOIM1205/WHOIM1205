@@ -44,26 +44,68 @@
 
 ## 🧸 Open Source Focus
 
-### 🛠️ Active Contributor
-- PRs for bug fixes & improvements  
-- Raising & discussing real-world issues  
-- Improving reliability and correctness  
+<!-- ===== TOP DIVIDER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=70&section=header&animation=fadeIn" />
+</p>
 
+<!-- ===== ACTIVE CONTRIBUTOR ===== -->
+### 🔧 Active Contributor
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:16a34a&height=3&section=header" />
+</p>
+
+I actively contribute to open source by submitting **PRs for bug fixes and improvements**,  
+raising **real-world issues**, and pushing changes that improve  
+**reliability, correctness, and long-term maintainability**.
+
+---
+
+<!-- ===== BUG HUNTER ===== -->
 ### 🐞 Bug Hunter
-- Bugs found while using real systems  
-- Deep root-cause analysis  
-- Fixing problems, not workarounds  
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ef4444,100:f97316&height=3&section=header" />
+</p>
+
+I enjoy finding bugs that appear **only in real usage**,  
+digging deep into **root causes**, and fixing the **actual problem**  
+instead of relying on temporary workarounds.
+
+---
+
+<!-- ===== CODE READER ===== -->
 ### 🔍 Code Reader
-- Kubernetes / Prometheus / infra codebases  
-- Controllers, caches, concurrency & failures  
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:6366f1&height=3&section=header" />
+</p>
+
+I learn by reading real infrastructure codebases —  
+**Kubernetes, Prometheus, and similar systems** —  
+to understand controllers, caches, concurrency, and failure modes.
+
+---
+
+<!-- ===== OWNERSHIP ===== -->
 ### 🤝 Whatever the Project Needs
-- Code • Issues • Docs • Reviews • Investigations  
-- Ownership mindset — open source works when people step up  
 
-> **I don’t limit myself to a role.  
-> If something needs to be done — I step in.**
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,100:eab308&height=3&section=header" />
+</p>
+
+Open source isn’t about fixed roles.  
+Whether it’s **code, issues, docs, reviews, or investigations**,  
+I step in wherever help is needed and take ownership.
+
+---
+
+<!-- ===== CLOSING STATEMENT ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:0ea5e9&height=80&section=footer&text=If%20something%20needs%20to%20be%20done%20—%20I%20step%20in.&fontSize=22&fontColor=ffffff&animation=twinkling" />
+</p>
+
 
 ---
 
