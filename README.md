@@ -92,18 +92,6 @@ to understand controllers, caches, concurrency, and failure modes.
 
 ---
 
-### 🤝 Whatever the Project Needs
-
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:facc15,100:eab308&height=4" />
-</p>
-
-Open source isn’t about fixed roles.  
-Whether it’s **code, issues, docs, reviews, or investigations**,  
-I step in wherever help is needed and take ownership.
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:0ea5e9&height=90&text=If%20something%20needs%20to%20be%20done%20—%20I%20step%20in.&fontColor=ffffff&fontSize=22&animation=twinkling" />
 </p>
