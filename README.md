@@ -92,13 +92,6 @@ to understand controllers, caches, concurrency, and failure modes.
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:0ea5e9&height=90&text=If%20something%20needs%20to%20be%20done%20—%20I%20step%20in.&fontColor=ffffff&fontSize=22&animation=twinkling" />
-</p>
-
-
----
-
 <!-- ===== OWNERSHIP ===== -->
 ### 🤝 Whatever the Project Needs
 
