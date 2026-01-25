@@ -1,11 +1,12 @@
-<!-- ================================================= -->
-<!-- ================== HERO SECTION ================= -->
-<!-- ================================================= -->
+<!-- ===================== HERO ===================== -->
 
 <h1 align="center">Hey 👋, I'm David Laid</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Open+Source+Enthusiast;Kubernetes+%7C+Go+%7C+Prometheus;Distributed+Systems+Bug+Hunter;I+don’t+quit+when+things+break—I+fix+them" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Open+Source+Enthusiast;Kubernetes+%7C+Go+%7C+Prometheus;Distributed+Systems+Bug+Hunter;I+dont+quit+when+things+break%2C+I+fix+them"
+    alt="typing animation"
+  />
 </p>
 
 <p align="center">
@@ -13,91 +14,97 @@
 </p>
 
 <p align="center">
-  📫 <a href="mailto:rathourprateek8@gmail.com">rathourprateek8@gmail.com</a> &nbsp;|&nbsp;
+  📫 <a href="mailto:rathourprateek8@gmail.com">rathourprateek8@gmail.com</a> •
   💼 <a href="https://www.linkedin.com/in/prateek-singh-rathour-323347368">LinkedIn</a>
 </p>
 
----
+<br/>
 
-<!-- ================================================= -->
-<!-- ================== TECH STACK =================== -->
-<!-- ================================================= -->
+<!-- ===================== DIVIDER ===================== -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656986-1b0f1b64-5b9e-4a45-9c9b-6b72d64c2f6a.gif" width="600"/>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,prometheus,linux,git" />
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,prometheus,linux,git&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>Building, breaking, observing, and fixing production systems</sub>
 </p>
 
 ---
 
-<!-- ================================================= -->
-<!-- ============== OPEN SOURCE FOCUS ================ -->
-<!-- ================================================= -->
+<!-- ===================== OSS FOCUS ===================== -->
 
 ## 🧸 Open Source Focus
 
-### 🛠️ Active Open Source Contributor
-- Submitting PRs (bug fixes, improvements, cleanups)
-- Raising & discussing real-world issues
-- Improving reliability, correctness & developer experience
+### 🛠️ Active Contributor
+- PRs for bug fixes & improvements  
+- Raising & discussing real-world issues  
+- Improving reliability and correctness  
 
 ### 🐞 Bug Hunter
-- Finding bugs in real systems
-- Digging deep into root causes
-- Fixing problems, not workarounds
+- Bugs found while using real systems  
+- Deep root-cause analysis  
+- Fixing problems, not workarounds  
 
-### 🔍 Code Reader & Learner
-- Kubernetes / Prometheus / OpenTelemetry style codebases
-- Controllers, caches, concurrency & failure modes
+### 🔍 Code Reader
+- Kubernetes / Prometheus / infra codebases  
+- Controllers, caches, concurrency & failures  
 
 ### 🤝 Whatever the Project Needs
-- Code • Issues • Investigations • Docs • Reviews
-- Ownership mindset — open source works better when people step up
+- Code • Issues • Docs • Reviews • Investigations  
+- Ownership mindset — open source works when people step up  
 
-**I don’t limit myself to a role.  
-If something needs to be done — I step in.**
-
----
-
-<!-- ================================================= -->
-<!-- ================== LEARNING ===================== -->
-<!-- ================================================= -->
-
-## 📚 Currently Exploring
-
-- Kubernetes controller-runtime internals  
-- Informer cache consistency & race conditions  
-- Prometheus metric correctness  
-- Distributed systems failure scenarios  
+> **I don’t limit myself to a role.  
+> If something needs to be done — I step in.**
 
 ---
 
-<!-- ================================================= -->
-<!-- ================== STATS ======================== -->
-<!-- ================================================= -->
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## 🧠 System Mindset
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WHOIM1205&theme=tokyo-night&hide_border=true" />
+</p>
+
+- Systems fail quietly before they fail loudly  
+- Metrics lie without context  
+- Controllers are easy — correctness is hard  
+
+---
+
+<!-- ===================== STATS ===================== -->
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WHOIM1205&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=WHOIM1205&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WHOIM1205&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=WHOIM1205&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ================================================= -->
-<!-- ================== SNAKE ======================== -->
-<!-- ================================================= -->
+<!-- ===================== SNAKE ===================== -->
 
-## 🐍 Contributions
+## 🐍 Contribution Flow
 
 <p align="center">
-  <img src="https://github.com/WHOIM1205/WHOIM1205/blob/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/WHOIM1205/WHOIM1205/output/github-contribution-grid-snake.svg"
+    alt="snake animation"
+  />
 </p>
 
 ---
 
 <p align="center">
-  <i>Always open to collaborating on meaningful open source problems.</i>
+  <i>Open to collaborating on meaningful open-source problems.</i>
 </p>
