@@ -111,9 +111,8 @@ I step in wherever help is needed and take ownership.
   If something needs to be done — I step in.</b>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:0ea5e9&height=80&animation=twinkling" />
-</p>
+<hr style="height:1px;border:none;background:linear-gradient(to right,#0ea5e9,#6366f1);" />
+
 
 ---
 
@@ -137,9 +136,12 @@ I step in wherever help is needed and take ownership.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WHOIM1205&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=WHOIM1205&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=WHOIM1205&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=WHOIM1205&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
