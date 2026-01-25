@@ -2,11 +2,13 @@
 <!-- ================== HERO ======================== -->
 <!-- ================================================= -->
 
+<!-- ================== HERO ================== -->
+
 <p align="center">
   <img
-    src="https://avatars.githubusercontent.com/u/WHOIM1205?v=4"
+    src="https://github.com/WHOIM1205.png"
     width="120"
-    style="border-radius: 50%;"
+    alt="Profile Picture"
   />
 </p>
 
@@ -14,13 +16,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Open+Source+Enthusiast;Kubernetes+%7C+Go+%7C+Prometheus;Distributed+Systems+Bug+Hunter;I+don’t+quit+when+things+break%2C+I+fix+them"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Open+Source+Enthusiast;Kubernetes+%7C+Go+%7C+Prometheus;Distributed+Systems+Bug+Hunter;I+dont+quit+when+things+break%2C+I+fix+them"
+    alt="Typing Animation"
   />
 </p>
 
 <p align="center">
-  <b>I don’t quit when things break.</b>
+  <b>I don’t quit when things break. I stay until the system gives up.</b>
 </p>
 
 <p align="center">
@@ -28,6 +30,9 @@
   💼 <a href="https://www.linkedin.com/in/prateek-singh-rathour-323347368">LinkedIn</a> •
   🧑‍💻 <a href="https://github.com/WHOIM1205">GitHub</a>
 </p>
+
+---
+
 
 ---
 
