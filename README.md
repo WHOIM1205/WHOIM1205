@@ -1,15 +1,26 @@
 <!-- ================================================= -->
-<!-- ================== PROFILE ===================== -->
+<!-- ================== HERO ======================== -->
 <!-- ================================================= -->
+
+<p align="center">
+  <img
+    src="https://avatars.githubusercontent.com/u/WHOIM1205?v=4"
+    width="120"
+    style="border-radius: 50%;"
+  />
+</p>
 
 <h1 align="center">Hey 👋, I'm David Laid</h1>
 
 <p align="center">
-  Open Source Enthusiast • Kubernetes • Go • Prometheus
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Open+Source+Enthusiast;Kubernetes+%7C+Go+%7C+Prometheus;Distributed+Systems+Bug+Hunter;I+don’t+quit+when+things+break%2C+I+fix+them"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <b>I don’t quit when things break. I stay until the system gives up.</b>
+  <b>I don’t quit when things break.</b>
 </p>
 
 <p align="center">
@@ -20,6 +31,10 @@
 
 ---
 
+<!-- ================================================= -->
+<!-- ================== TECH STACK ================== -->
+<!-- ================================================= -->
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -27,6 +42,10 @@
 </p>
 
 ---
+
+<!-- ================================================= -->
+<!-- ============== OPEN SOURCE FOCUS ================ -->
+<!-- ================================================= -->
 
 ## 🧸 Open Source Focus
 
@@ -93,6 +112,10 @@ I step in wherever help is needed and take ownership.
 
 ---
 
+<!-- ================================================= -->
+<!-- ================== LEARNING ==================== -->
+<!-- ================================================= -->
+
 ## 📚 Currently Exploring
 
 - Kubernetes controller-runtime internals  
@@ -102,6 +125,10 @@ I step in wherever help is needed and take ownership.
 
 ---
 
+<!-- ================================================= -->
+<!-- ================== STATS ======================= -->
+<!-- ================================================= -->
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -110,6 +137,10 @@ I step in wherever help is needed and take ownership.
 </p>
 
 ---
+
+<!-- ================================================= -->
+<!-- ================== SNAKE ======================= -->
+<!-- ================================================= -->
 
 ## 🐍 Contribution Flow
 
