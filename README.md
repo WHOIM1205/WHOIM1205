@@ -148,15 +148,3 @@ I step in wherever help is needed and take ownership.
 <!-- ================================================= -->
 <!-- ================== SNAKE ======================= -->
 <!-- ================================================= -->
-
-## 🐍 Contribution Flow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/WHOIM1205/WHOIM1205/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
-  <i>Always open to collaborating on meaningful open-source problems.</i>
-</p>
